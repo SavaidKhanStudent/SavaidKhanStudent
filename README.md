@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**SavaidKhanStudent/SavaidKhanStudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello My name is Savaid khan.
+I am interested in learning Cyber Security.
 
 - 🔭 I’m currently working on Cyber Security Projects
 - 🌱 I’m currently learning CyberSecurity
